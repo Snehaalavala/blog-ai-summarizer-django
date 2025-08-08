@@ -27,4 +27,4 @@ media/
 
 # Environment
 .env
-.venv/
+venv/
